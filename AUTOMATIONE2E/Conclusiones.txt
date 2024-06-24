@@ -1,0 +1,15 @@
+Conclusiones
+
+Este proyecto ha sido una experiencia enriquecedora, no solo por la oportunidad de automatizar un flujo de compra completo en la página de prueba Demoblaze, sino que me ha permitido mejorar las habilidades técnicas en Selenium y Serenity, así como en el uso del patrón de diseño Screenplay. Los desafíos encontrados, como el manejo de ventanas emergentes y la construcción de selectores personalizados han contribuido a un entendimiento más profundo de las mejores prácticas en la automatización de pruebas. A continuación, se detallan las conclusiones clave del ejercicio
+
+1. Un Reto Agradable
+La página proporciona una variedad de funcionalidades que simulan un entorno de compras real, permitiendo poner a prueba diversas habilidades de automatización y resolución de problemas
+
+2. Manejo de Ventanas Emergentes
+Durante el proceso de agregar productos al carrito, nos encontramos con una verificación a través de una ventana emergente. Este reto requirió la implementación de una funcionalidad para interactuar con la ventana emergente, específicamente para automatizar el evento de presionar "Enter" o hacer clic en los botones correspondientes. Este paso fue crucial para asegurar la continuidad del flujo de prueba sin interrupciones.
+3. Selectores con Mala Programación
+Uno de los mayores desafíos fue la identificación y manejo de selectores mal programados en la página. Muchos de los elementos no tenían identificadores únicos o utilizaban estructuras inadecuadas para su selección, para superar esto fue necesario construir XPaths personalizados y analizar cuidadosamente cada elemento para determinar la mejor manera de mapearlos de manera robusta y mantenible
+
+4. Flujo de Compra Completo
+El flujo de compra automatizado abarca desde la selección y adición de productos al carrito, pasando por la visualización del carrito y la completación del formulario de compra, hasta finalizar la compra, se incluyó la creación de un nuevo usuario y el inicio de sesión, lo cual agrega una capa adicional de complejidad y realismo a la prueba
+ Este enfoque integral asegura que el flujo de compra se valide de manera exhaustiva y que cualquier problema en el proceso sea identificado y resuelto

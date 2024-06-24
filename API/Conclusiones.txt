@@ -1,0 +1,13 @@
+Conclusiones
+
+Este proyecto ha sido una experiencia MUY enriquecedora, no solo por la oportunidad de automatizar en cypress APIS, sino que me ha permitido mejorar las habilidades técnicas. Los desafíos encontrados, como el manejo apis, nuevo framework y conceptos nuevos han contribuido a explorar aun màs cypress para  automatización de pruebas. A continuación, se detallan las conclusiones clave del ejercicio
+
+1.  Configuración Inicial de Cypress:
+ Iniciar la automatización de pruebas con Cypress requiere una comprensión sólida de la estructura del proyecto y de cómo configurar adecuadamente los archivos de prueba, este conocimiento me será muy útil para futuros proyectos de automatización en cypress
+
+2. Manejo de Datos y Fixtures:
+   Una de las lecciones importantes aprendidas fue cómo manejar datos externos utilizando fixtures en Cypress me encontre con errores relacionados con la obtención de datos del archivo pet.json, lo cual me hizo entender cómo Cypress maneja los datos de prueba
+
+3. Depuración y Resolución de Problemas
+   Enfrentar y resolver problemas de sintaxis, asegurar la correcta ubicación de archivos y verificar configuraciones son habilidades críticas que desarrolla uno durante e proyecto para mejoras y tener proyectos construcctivos
+
